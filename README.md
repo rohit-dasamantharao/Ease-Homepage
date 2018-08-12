@@ -1,2 +1,2 @@
 # Basic-web-homepage
-a normal basic web home page
+a normal basic web home page desigined using HTML, CSS, JavaScript.
