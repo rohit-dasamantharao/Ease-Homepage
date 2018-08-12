@@ -13,4 +13,4 @@ Preview :-
 + Enter path of homepage.html
 + done.
 
-So then ever you click on the home button you go to the home page :).
+So When ever you click on the home button you go to the home page :).
