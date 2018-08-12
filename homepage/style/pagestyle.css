@@ -1,0 +1,98 @@
+body{
+	background-image: url("images/bg.jpg");
+	height: 96%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#search-bar{
+    font-size:1.5em;
+	font-family: cursive;
+	border:0px;
+	height:35px;
+	border-radius:5px;
+	padding-left:10px;
+}
+#search-div{
+ position:absolute;
+ padding:5px;
+ background-color:rgba(255,255,255,0.8);
+ border-radius:10px;
+}
+#search-button{
+	border:none;
+	background-color:rgba(0,0,0,0);
+}
+#time{
+position:absolute;
+background-color:rgba(225,225,255,0.4);
+}
+.opimage{
+	width:60px;
+	height:60px;
+}
+.engine{
+	border:none;
+    height:30px;
+}
+.dropbtn {
+	width:100px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+	padding:10px;
+	padding-top:0px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: orange;
+    min-width: 200px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+	z-index:100000px;
+	border:solid;
+	border-color:darkorange;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: darkorange;
+	box-shadow: 5px 5px 10px rgb(157,122,0);
+	border:solid;
+	border-color:orange;
+	}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .beauty-1{
+    visibility: visible;
+}
+.dropdown:hover .dropbtn {
+    background-color: darkorange;
+}
+.beauty-1{
+border-bottom:20px solid darkorange;
+border-right:15px solid transparent;
+width:100px;
+height:0;
+visibility: hidden;
+}
+#nav-bar{
+padding:10px;
+}
