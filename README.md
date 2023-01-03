@@ -3,7 +3,7 @@ web home page desigined using HTML, CSS, JavaScript.
 
 Preview :-
 
-![Preview Image](homepage.PNG)
+![Preview Image](https://rohit-dasamantharao.github.io/Ease-Homepage/homepage.PNG)
 
 # Setting up as a homepage in the Chrome 
 + goto chrome://settings/
